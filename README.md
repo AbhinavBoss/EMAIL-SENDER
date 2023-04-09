@@ -6,6 +6,10 @@ STEPs involved:
 
 >>>Make sure that 2 step verification is on.
 
->>>Write the account password
+2.Write the account password.
 
->>>
+3.Now under APP PASSWORD section select custom and write any user name and copy the code shown above.
+
+4.Now you can check out the code files
+
+..............HAVE A NICE DAY..............

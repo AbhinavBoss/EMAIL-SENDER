@@ -1,1 +1,1 @@
-password = 'ghfbmuivkpffepfq'
+password = 'PASTE THE CODE YOU COPIED FROM THE ACCOUNT'

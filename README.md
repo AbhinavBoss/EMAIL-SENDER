@@ -14,7 +14,7 @@ REQUIRED STEPS:
 
 2.Write the account password.
 
-3.Now under APP PASSWORD section select custom and write any user name and copy the code shown above.
+3.Now under APP PASSWORD section select custom and write any user name and copy the code shown above(you have to paste this code in password file)
 
 4.Now you can check out the code files
 
